@@ -96,9 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Image.asset(
-              'assets/images/image1.png',
-              width: 200.0,  
-              height: 200.0, 
+              'assets/images/image2.gif',
             ),
             const Text(
               '赵钰芳 20211060240'
@@ -121,3 +119,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
